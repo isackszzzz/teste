@@ -1,0 +1,24 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Apenas um teste.",
+  "homepage": "https://github.com/isackszzzz/teste#readme",
+  "bugs": {
+    "url": "https://github.com/isackszzzz/teste/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isackszzzz/teste.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
